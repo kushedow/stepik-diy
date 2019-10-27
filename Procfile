@@ -1,1 +1,1 @@
-web: gunicorn app:app heroki
+web: gunicorn src.app:app --log-file=-
