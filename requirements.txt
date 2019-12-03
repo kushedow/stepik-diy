@@ -3,7 +3,7 @@ bcrypt==3.1.7
 cffi==1.12.3
 Click==7.0
 cryptography==2.7
-ecdsa==0.13.2
+ecdsa==0.13.3
 fabric==2.4.0
 Flask==1.0.3
 gitdb==0.6.4
